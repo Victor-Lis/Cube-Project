@@ -121,11 +121,9 @@ Girando
 Resultado Final
 ![Print1](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
 
-![Print2](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
+![Print2](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print2.png)
 
-![Print3](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
-
-![Print4](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
+![Print3](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print3.png)
 
 ## Autores
 

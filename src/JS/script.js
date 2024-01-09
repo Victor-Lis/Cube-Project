@@ -36,6 +36,7 @@ let camera = new THREE.PerspectiveCamera(
 const orbit = new OrbitControls(camera, renderer.domElement)
 
 // TextureLoader
+
 const textureLoader = new THREE.TextureLoader();
 
 const textures = [

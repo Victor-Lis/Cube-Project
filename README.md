@@ -1,5 +1,5 @@
 
-# FirstProject-ThreeJS
+# Cube-Project-ThreeJS
 
 Esse é o um projeto utilizando ThreeJS, uma biblioteca que venho estudando pois acredito que agregue bastante em projetos no Front-End!
 
@@ -116,16 +116,16 @@ function iniciarAnimacao() {
 ### Screenshots
 
 Girando
-![PrintGirando](https://github.com/Victor-Lis/Cube-Project/src/blob/master/images/PrintGirando.png)
+![PrintGirando](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/PrintGirando.png)
 
 Resultado Final
-![Print1](https://github.com/Victor-Lis/Cube-Project/src/blob/master/images/Print1.png)
+![Print1](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
 
-![Print2](https://github.com/Victor-Lis/Cube-Project/src/blob/master/images/Print2.png)
+![Print2](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
 
-![Print3](https://github.com/Victor-Lis/Cube-Project/src/blob/master/images/Print3.png)
+![Print3](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
 
-![Print4](https://github.com/Victor-Lis/Cube-Project/src/blob/master/images/Print4.png)
+![Print4](https://github.com/Victor-Lis/Cube-Project/blob/master/src/images/Print1.png)
 
 ## Autores
 

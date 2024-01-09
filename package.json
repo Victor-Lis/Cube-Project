@@ -1,0 +1,21 @@
+{
+  "name": "cube-project",
+  "version": "1.0.0",
+  "description": "Esse é um projeto simples para testar meus conhecimentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Victor-Lis"
+  },
+  "author": "Dev-Victor-Lis",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "dist": "^0.1.2",
+    "three": "^0.160.0"
+  }
+}
